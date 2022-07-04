@@ -25,11 +25,24 @@ section {
     padding: 30px;
 }
 
+.half-width2 {
+    width: 40%;
+    padding-left: -30px;
+}
+
+
 .half-width img {
 
     width: 80%;
     padding-left: 30px;
     padding-top: 100px;
+}
+
+.half-width2 img {
+
+    width: 50%;
+    padding-left: 30px;
+    padding-top: 60px;
 }
 
 .link-button {
@@ -44,4 +57,11 @@ section {
 .image-add {
     background-image: url(top-banner.png);
     background-repeat: no-repeat;
+}
+
+.dream-big {
+    background-image: url(dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+
 }
